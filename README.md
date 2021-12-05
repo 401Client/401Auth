@@ -1,7 +1,2 @@
 # 401Auth
-authentication moment
-
-hwid
-
-
-hwid encrypted mometn
+authenticate deez nuts ahahahhasdksjhjklasdfhjkl;ewfr jkl;jklaskjl;jkfsdkladsjflkdsjakofklsdajklasjdlfsakl;dfjl;ksadjfklaskldjf;klsadjfjkl;jklaskjl;jkfsdkladsjflkdsjakofklsdajklasjdlfsakl;dfjl;ksadjfklaskldjf;klsadjfjkl;jklaskjl;jkfsdkladsjflkdsjakofklsdajklasjdlfsakl;dfjl;ksadjfklaskldjf;klsadjfjkl;jklaskjl;jkfsdkladsjflkdsjakofklsdajklasjdlfsakl;dfjl;ksadjfklaskldjf;klsadjfjkl;jklaskjl;jkfsdkladsjflkdsjakofklsdajklasjdlfsakl;dfjl;ksadjfklaskldjf;klsadjf
